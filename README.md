@@ -25,7 +25,7 @@ A robust, console-based retail application built in Java that demonstrates core 
 
 1. Ensure you have the Java Development Kit (JDK) installed.
 2. Download `ShoppingCart.java`.
-3. Compile the file:
+3. Compile the file and run:
    ```bash
    javac ShoppingCart.java
    java ShoppingCart
