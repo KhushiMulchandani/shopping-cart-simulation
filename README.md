@@ -12,7 +12,7 @@ A robust, console-based retail application built in Java that demonstrates core 
 * **Simulated Payment Gateway:** Supports multiple payment methods including:
     * **Cash on Delivery** 
     * **Credit/Debit Cards** (with 16-digit card and CVV validation).
-    * **UPI Interface** 
+    * **UPI** 
 * **Tax Calculation:** Automatic GST application (12%) during the checkout phase.
 
 ## 🛠️ Technical Highlights
